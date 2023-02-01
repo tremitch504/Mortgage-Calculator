@@ -60,7 +60,7 @@ while(true){
     }
     System.out.println("Enter a value between 1 and 30");
 }
-
+ 
 while(true){
     //How many years?
     System.out.print("Preiod (Years): ");
